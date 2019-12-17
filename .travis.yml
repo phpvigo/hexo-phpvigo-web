@@ -17,5 +17,5 @@ before_install:
 install:
   - yarn install
 script:
-  - yarn prepate-json
+  - yarn prepare-json
   - yarn build
