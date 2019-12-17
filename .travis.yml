@@ -1,3 +1,4 @@
+language: node_js
 # Handle git submodules yourself
 git:
   submodules: false
