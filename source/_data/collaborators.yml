@@ -1,0 +1,9 @@
+- name: CodelyTv
+  link: https://codely.tv/
+  image: /i/logoCodely.png
+- name: JetBrains
+  link: https://www.jetbrains.com/
+  image: /i/logoJetBrains.png
+- name: Pedro Figueras
+  link: https://www.pedrofigueras.com/
+  image: /i/logoPedrofigueras.png

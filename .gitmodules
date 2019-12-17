@@ -1,0 +1,3 @@
+[submodule "themes/phpvigo"]
+	path = themes/phpvigo
+	url = git@github.com:phpvigo/hexo-phpvigo-theme.git
