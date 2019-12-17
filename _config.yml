@@ -97,7 +97,10 @@ theme: phpvigo
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: https://__GITHUB_TOKEN__@github.com/sergiocarracedo/blog.git
+  branch: gh-pages
+  message:
 
 menu:
   Inicio: /
