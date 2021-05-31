@@ -9,6 +9,11 @@ jobs:
   pages:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js 12.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
       - name: prepare
         run: |
           git config user.name "Sergio Carracedo"
@@ -16,11 +21,6 @@ jobs:
           sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
           sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
           git submodule update --init --recursive
-      - uses: actions/checkout@v2
-      - name: Use Node.js 12.x
-        uses: actions/setup-node@v1
-        with:
-          node-version: '12.x'
       - name: Cache NPM dependencies
         uses: actions/cache@v2
         with:
