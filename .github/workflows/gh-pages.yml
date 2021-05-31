@@ -19,6 +19,7 @@ jobs:
           git config --global user.name "Sergio Carracedo"
           git config --global user.email "hi@sergiocarracedo.es"
           sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
+          sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
           git submodule update --init --recursive
       - name: Cache NPM dependencies
         uses: actions/cache@v2
