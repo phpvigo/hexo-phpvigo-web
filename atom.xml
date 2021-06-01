@@ -6,7 +6,7 @@
   <link href="https://phpvigo.com/atom.xml" rel="self"/>
   
   <link href="https://phpvigo.com/"/>
-  <updated>2021-05-31T12:56:13.853Z</updated>
+  <updated>2021-06-01T06:45:45.831Z</updated>
   <id>https://phpvigo.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://phpvigo.com/estrenamos-sponsor-codelytv/"/>
     <id>https://phpvigo.com/estrenamos-sponsor-codelytv/</id>
     <published>2018-02-28T00:00:00.000Z</published>
-    <updated>2021-05-31T12:56:13.853Z</updated>
+    <updated>2021-06-01T06:45:45.831Z</updated>
     
     <content type="html"><![CDATA[<p>Estrenamos sponsor: <em>CodelyTV</em>, el <em>Netflix de la programación</em> que sorteará una licencia a su plataforma de formación <a href="https://codely.tv/pro/cursos">https://codely.tv/pro/cursos</a> entre los asistentes.</p>]]></content>
     
@@ -41,7 +41,7 @@
     <link href="https://phpvigo.com/resumen-meetup-13/"/>
     <id>https://phpvigo.com/resumen-meetup-13/</id>
     <published>2017-05-04T00:00:00.000Z</published>
-    <updated>2021-05-31T12:56:13.853Z</updated>
+    <updated>2021-06-01T06:45:45.831Z</updated>
     
     <content type="html"><![CDATA[<p>Antes de comenzar el resumen de la charla nos gustaría agradecer a todos los asistentes su presencia y la acogida que nos han dado y también agradecemos a Kaleido Coworking la cesión del espacio donde realizar las charlas.</p><p>Hemos de destacar que la asistencia a este meetup superó con creces las expectativas, teniendo que poner por primera vez un límite de asistentes (55) que se completó con creces. </p><p>Y es que la charla presentada por <a href="https://twitter.com/regocas">Manuel Rego</a>, lo merecía, en pocas ocasiones podemos tener a un ponente que nos explique una tecnología, en este caso <em>CSS Grid Layout</em>, que además participase en el proceso de implementación de dicha especificación en Chromium (Blink) y Webkit.</p><p>Tanto si asististeis a la charla como si no os recomendamos ver el video que dejamos al final del post.</p><p><em>Traspas de la charla</em>: <a href="https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/">https://people.igalia.com/mrego/talks/phpvigo-css-grid-layout/#/</a></p><p>Para más información sobre el ponente: <a href="https://blogs.igalia.com/mrego/">https://blogs.igalia.com/mrego/</a></p><p>La segunda parte el meetup se centro en 4 charlas lightning</p><p>Métodos mágicos II (<a href="https://twitter.com/rolando_caldas">Rolando Caldas</a>)<br>PHP Traits (<a href="https://twitter.com/carlosgoce">Carlos Goce</a>) <a href="https://github.com/carlosgoce/talks/blob/master/php_traits.md">https://github.com/carlosgoce/talks/blob/master/php_traits.md</a><br>UUIDs (<a href="https://twitter.com/felixgomezlopez">Félix Gómez</a>)<br>Shame on you PHP!! (<a href="https://twitter.com/sergiocarracedo">Sergio Carracedo</a>)<br>Recordad que podéis apuntaros para dar una charla o sugerir nuevas en <a href="https://docs.google.com/spreadsheets/d/1bLRADyrOA2H3ZEtMW30OXyiva2jKuzU6">https://docs.google.com/spreadsheets/d/1bLRADyrOA2H3ZEtMW30OXyiva2jKuzU6</a>…  </p><p>Es importante para la comunidad que entre todos podamos seguir compartiendo conocimiento.</p><p>Al finalizar la charla se realizó un concurso de conocimiento en el que el que obtuvo la mayor puntuación recibió la licencia.</p><p>Os dejamos los videos de todas las charlas</p><div class="video-container"><iframe src="https://www.youtube.com/embed/NbeP64e8DZQ" frameborder="0" loading="lazy" allowfullscreen></iframe></div><div class="video-container"><iframe src="https://www.youtube.com/embed/D2VqJesbL-E" frameborder="0" loading="lazy" allowfullscreen></iframe></div><div class="video-container"><iframe src="https://www.youtube.com/embed/yzoyQg1NIRo" frameborder="0" loading="lazy" allowfullscreen></iframe></div><div class="video-container"><iframe src="https://www.youtube.com/embed/VVbdoCTiN44" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
     
